@@ -16,5 +16,5 @@ I contribute to open source a lot and following projects are my current focus:
 
 Here are my two recent blog posts:
 
-- [Inserting One Billion Rows in SQLite Under A Minute](https://avi.im/blag/2021/fast-sqlite-inserts/)
+- [Towards Inserting One Billion Rows in SQLite Under A Minute](https://avi.im/blag/2021/fast-sqlite-inserts/)
 - [I ended up adding duplicate records on a unique index in MongoDB](https://avi.im/blag/2021/mongo-dupes-in-unique-index/)
