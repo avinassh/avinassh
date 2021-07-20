@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I work as a backend developer [Verloop](https://github.com/verloop)
+- I work as a backend developer at [Verloop](https://github.com/verloop) (we are [hiring](https://verloop-team.freshteam.com/jobs))
 - I mostly code in Go, and Python
 - I am interested in distributed systems, message queues, and messaging infrastructure in general
 - I am also learning Rust these days
