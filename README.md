@@ -1,20 +1,24 @@
-### Hi there 👋
+<pre>
+$ cat profile.txt
 
-- I work as a backend developer at [Verloop](https://github.com/verloop) (we are [hiring](https://verloop-team.freshteam.com/jobs))
+Hi there, I am Avinash 👋
+
+- I work as a backend developer at <a href="https://github.com/verloop">Verloop</a> (we are <a href="https://verloop-team.freshteam.com/jobs">hiring</a>)
 - I mostly code in Go, and Python
 - I am interested in distributed systems, message queues, and messaging infrastructure in general
 - I am also learning Rust these days
 
-I contribute to open source a lot and following projects are my current focus:
+I am an open source enthusiast and contribute in my free time. Following projects are my current focus:
 
-- [gRPC Errors](https://github.com/avinassh/grpc-errors)
-- [twirpy](https://github.com/verloop/twirpy)
-- [Fast SQLite Inserts](https://github.com/avinassh/fast-sqlite3-inserts)
-- [fluvio-go](https://github.com/avinassh/fluvio-go)
-- [pastry](https://github.com/avinassh/pastry)
-- [grusto](https://github.com/avinassh/grusto)
+- <a href="https://github.com/avinassh/grpc-errors">gRPC Errors</a>
+- <a href="https://github.com/verloop/twirpy">twirpy</a>
+- <a href="https://github.com/avinassh/fast-sqlite3-inserts">Fast SQLite Inserts</a>
+- <a href="https://github.com/avinassh/fluvio-go">fluvio-go</a>
+- <a href="https://github.com/avinassh/pastry">pastry</a>
+- <a href="https://github.com/avinassh/grusto">grusto</a>
 
 Here are my two recent blog posts:
 
-- [Towards Inserting One Billion Rows in SQLite Under A Minute](https://avi.im/blag/2021/fast-sqlite-inserts/)
-- [I ended up adding duplicate records on a unique index in MongoDB](https://avi.im/blag/2021/mongo-dupes-in-unique-index/)
+- <a href="https://avi.im/blag/2021/fast-sqlite-inserts/" rel="nofollow">Towards Inserting One Billion Rows in SQLite Under A Minute</a>
+- <a href="https://avi.im/blag/2021/mongo-dupes-in-unique-index/" rel="nofollow">I ended up adding duplicate records on a unique index in MongoDB</a>
+</pre>
