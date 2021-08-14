@@ -7,7 +7,7 @@ Hi there, I am Avinash 👋
 - I mostly code in Go, and Python
 - I am interested in distributed systems, message queues, and messaging infrastructure in general
 - I am also learning Rust these days
-- Here is my <a href="https://avi.im/resume.pdf">resume</a>
+<!-- - Here is my <a href="https://avi.im/resume.pdf">resume</a> -->
 
 I am an open source enthusiast and contribute in my free time. Following projects are my current focus:
 
