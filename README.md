@@ -20,6 +20,7 @@ I am an open source enthusiast and contribute in my free time. Following project
 
 Here are my two recent blog posts:
 
+- <a href="https://avi.im/blag/2021/rc-day-24/" rel="nofollow">Hacking Go compiler to add a new keyword</a>
 - <a href="https://avi.im/blag/2021/fast-sqlite-inserts/" rel="nofollow">Towards Inserting One Billion Rows in SQLite Under A Minute</a>
 - <a href="https://avi.im/blag/2021/mongo-dupes-in-unique-index/" rel="nofollow">I ended up adding duplicate records on a unique index in MongoDB</a>
 </pre>
