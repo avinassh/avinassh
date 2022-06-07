@@ -3,8 +3,7 @@ $ cat profile.txt
 
 Hi there, I am Avinash 👋
 
-- I work as a backend developer at <a href="https://github.com/verloop">Verloop</a> (we are <a href="https://verloop-team.freshteam.com/jobs">hiring</a>)
-- I mostly code in Go, and Python
+- I work as a backend developer, and mostly code in Go, and Python
 - I am interested in distributed systems, message queues, and messaging infrastructure in general
 - I am also learning Rust these days
 <!-- - Here is my <a href="https://avi.im/resume.pdf">resume</a> -->
