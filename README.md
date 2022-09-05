@@ -5,6 +5,7 @@ Hi there, I am Avinash 👋
 
 - I work as a backend developer, and mostly code in Go, and Python
 - I am interested in distributed systems, message queues, and messaging infrastructure in general
+- I am building [CaskDB](https://github.com/avinassh/py-caskdb) which is an educational project to teach writing a key value store from scratch
 - I am also learning Rust these days
 <!-- - Here is my <a href="https://avi.im/resume.pdf">resume</a> -->
 
